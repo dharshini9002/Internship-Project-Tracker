@@ -22,3 +22,6 @@ The Internship & Project Tracker is a web application designed to help students 
 Login → Student Dashboard → Internship Management → Add Internship Form
 
 The mock UX demonstrates the application's user interface and navigation flow.
+## Prototype Walkthrough
+
+The prototype demonstrates the navigation flow between the login page, student dashboard, internship management page, and add internship form.
