@@ -8,12 +8,17 @@ The Internship & Project Tracker is a web application designed to help students 
 
 **Figma Design Link:**
 
-https://www.figma.com/design/hFZXRkOie0l1tlvstXTenM/Internship---Project-Tracker-%E2%80%93-Mock-UX
+[View Mock UX Design](https://github.com/dharshini9002/Internship-Project-Tracker.git)
 
 ### Designed Screens
+
 - Login and Sign Up
 - Student Dashboard
 - Internship Management
 - Add Internship Form
 
-The mock UX demonstrates the user interface and navigation flow of the application.
+### User Flow
+
+Login → Student Dashboard → Internship Management → Add Internship Form
+
+The mock UX demonstrates the application's user interface and navigation flow.
